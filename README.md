@@ -71,7 +71,7 @@
             <h2>Roupas</h2>
             <div class="product-item">
                 <img src="roupa1.jpg" alt="Roupa 1">
-                <h3>Camisa Casual</h3>
+                <h3>Camiseta</h3>
                 <p>R$ 99,90</p>
             </div>
             <div class="product-item">
