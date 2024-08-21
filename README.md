@@ -3,63 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loja de Moda</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
-        nav ul li {
-            display: inline;
-            margin: 0 15px;
-        }
-        nav ul li a {
-            color: #fff;
-            text-decoration: none;
-        }
-        .container {
-            padding: 20px;
-        }
-        .product-section {
-            margin-bottom: 30px;
-        }
-        .product-section h2 {
-            border-bottom: 2px solid #333;
-            padding-bottom: 10px;
-        }
-        .product-item {
-            display: inline-block;
-            width: 30%;
-            box-sizing: border-box;
-            padding: 10px;
-        }
-        .product-item img {
-            max-width: 100%;
-            height: auto;
-        }
-        .product-item h3 {
-            font-size: 1.2em;
-        }
-    </style>
 </head>
 <body>
     <header>
-        <h1>Loja de Moda</h1>
+        <h1>Loja NIKE MD</h1>
         <nav>
             <ul>
-                <li><a href="#roupas">Roupas</a></li>
+                <li><a href="#camiseta">Camisetas</a></li>
                 <li><a href="#tenis">Tênis</a></li>
                 <li><a href="#relógios">Relógios</a></li>
                 <li><a href="#bermudas">Bermudas</a></li>
@@ -68,7 +18,7 @@
     </header>
     <div class="container">
         <section id="roupas" class="product-section">
-            <h2>Roupas</h2>
+            <h2>Camisetas</h2>
             <div class="product-item">
                 <img src="roupa1.jpg" alt="Roupa 1">
                 <h3>Camiseta</h3>
