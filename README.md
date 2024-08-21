@@ -1,3 +1,6 @@
+Esse projeto vai ser direcionada para um "site de vnads online".
+
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
