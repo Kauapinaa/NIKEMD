@@ -1,4 +1,4 @@
-Esse projeto vai ser direcionada para um "site de vnads online".
+Esse projeto vai ser direcionada para um "site de vendas online".
 
 
 <!DOCTYPE html>
