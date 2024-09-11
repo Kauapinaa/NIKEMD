@@ -13,7 +13,6 @@ Esse projeto vai ser direcionada para um "site de vendas online".
     </header>
     <div class="container">
         <section id="roupas" class="product-section">
-            <h2>One Million</h2>
             <div class="product-item">
                 <h3>Camiseta</h3>
                 <p>R$ 99,90</p>
