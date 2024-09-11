@@ -9,19 +9,11 @@ Esse projeto vai ser direcionada para um "site de vendas online".
 </head>
 <body>
     <header>
-        <h1>Loja NIKE MD</h1>
-        <nav>
-            <ul>
-                <li><a href="#camiseta">Camisetas</a></li>
-                <li><a href="#tenis">Tênis</a></li>
-                <li><a href="#relógios">Relógios</a></li>
-                <li><a href="#bermudas">Bermudas</a></li>
-            </ul>
-        </nav>
+        <h1>Loja NIKE MD PERFUMES</h1>
     </header>
     <div class="container">
         <section id="roupas" class="product-section">
-            <h2>Camisetas</h2>
+            <h2>One Million</h2>
             <div class="product-item">
                 <h3>Camiseta</h3>
                 <p>R$ 99,90</p>
